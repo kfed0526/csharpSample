@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyDbModelStoreContainer" CdmEntityContainer="MyFormEntities">
+    <EntitySetMapping Name="LOG_INFO">
+      <EntityTypeMapping TypeName="MyDbModel.LOG_INFO">
+        <MappingFragment StoreEntitySet="LOG_INFO">
+          <ScalarProperty Name="LOG_SEQNO" ColumnName="LOG_SEQNO" />
+          <ScalarProperty Name="LOG_NAME" ColumnName="LOG_NAME" />
+          <ScalarProperty Name="LOG_ACTION" ColumnName="LOG_ACTION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USER_INFO">
+      <EntityTypeMapping TypeName="MyDbModel.USER_INFO">
+        <MappingFragment StoreEntitySet="USER_INFO">
+          <ScalarProperty Name="USER_BIRTHDAY" ColumnName="USER_BIRTHDAY" />
+          <ScalarProperty Name="USER_SEQNO" ColumnName="USER_SEQNO" />
+          <ScalarProperty Name="USER_ID" ColumnName="USER_ID" />
+          <ScalarProperty Name="USER_NAME" ColumnName="USER_NAME" />
+          <ScalarProperty Name="USER_MAIL" ColumnName="USER_MAIL" />
+          <ScalarProperty Name="USER_ADDRESS" ColumnName="USER_ADDRESS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

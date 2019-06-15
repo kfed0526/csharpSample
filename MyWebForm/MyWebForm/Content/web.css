@@ -1,0 +1,23 @@
+﻿.header {
+	background-position: top; 
+    text-align:center;
+    /*height: 130px;*/ 
+    margin-right: auto; 
+    margin-left: auto;  
+    background-repeat: repeat-x; 
+    width: 80%;
+    color:rgb(255, 255, 255);
+    margin-bottom:0px;
+}
+.footer {
+	background-position: top; 
+    text-align:center;
+    /*height: 130px;*/ 
+    margin-right: auto; 
+    margin-left: auto;  
+    background-repeat: repeat-x; 
+    background-color: rgb(160, 215, 226); 
+    width: 80%;
+    color:rgb(255, 255, 255);
+    margin-bottom:0px;
+}
