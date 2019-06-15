@@ -1,0 +1,17 @@
+INFO  2019/06/14 16:19:53 accountSetting       Add_Click            新增成功
+INFO  2019/06/14 16:21:39 accountSetting       Add_Click            新增成功
+INFO  2019/06/14 16:32:40 accountSetting       Add_Click            新增成功
+INFO  2019/06/14 17:27:15 accountSetting       Add_Click            新增成功
+INFO  2019/06/14 17:27:21 accountSetting       Update_Click         修改成功
+INFO  2019/06/14 17:29:36 accountSetting       Update_Click         修改成功
+INFO  2019/06/14 17:29:54 accountSetting       Update_Click         修改成功
+INFO  2019/06/14 17:34:34 _BaseRepository`1    UpdateAccountSql     accountDbModel==TestWeb.Models.AccountDbModel
+INFO  2019/06/14 17:34:34 accountSetting       Update_Click         修改成功
+INFO  2019/06/14 17:38:28 _BaseRepository`1    UpdateAccountSql     accountDbModel==TestWeb.Models.AccountDbModel
+INFO  2019/06/14 17:38:28 accountSetting       Update_Click         修改成功
+INFO  2019/06/14 17:40:01 _BaseRepository`1    UpdateAccountSql     accountDbModel==[ActiveType=,Account=peter,UserID=,Password=,AccountType=,AccountName=peter1,IsDelete=,RequirementNO=,EffectiveStartDate=,EffectiveEndDate=,AccountStatus=]
+INFO  2019/06/14 17:40:01 accountSetting       Update_Click         修改成功
+INFO  2019/06/14 17:40:06 _BaseRepository`1    UpdateAccountSql     accountDbModel==[ActiveType=,Account=peter,UserID=,Password=,AccountType=,AccountName=peter2,IsDelete=,RequirementNO=,EffectiveStartDate=,EffectiveEndDate=,AccountStatus=]
+INFO  2019/06/14 17:40:06 accountSetting       Update_Click         修改成功
+INFO  2019/06/14 17:41:40 _BaseRepository`1    UpdateAccountSql     accountDbModel==[ActiveType=,Account=peter,UserID=,Password=,AccountType=,AccountName=peter2,IsDelete=,RequirementNO=,EffectiveStartDate=,EffectiveEndDate=,AccountStatus=]
+INFO  2019/06/14 17:41:40 accountSetting       Update_Click         修改成功
